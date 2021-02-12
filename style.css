@@ -1,0 +1,33 @@
+body {
+	margin: 0;
+	padding: 0px;
+}
+
+#main {
+	margin: 100px;
+	margin-top: 10px;
+}
+
+.btn {
+	width: 100px;
+	height: 40px;
+	background-color: lightsalmon;
+	border: none;
+	border-radius: 10px;
+	outline: none;
+}
+
+.btn:hover {
+	border: 3px solid rgb(9, 163, 235);
+	border-radius: 10px;
+}
+
+.gtitle {
+	font-size: 25px;
+	font-weight: bold;
+	margin-left: 10px;
+}
+
+#guan {
+	color: red;
+}
